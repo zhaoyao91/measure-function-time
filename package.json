@@ -1,0 +1,9 @@
+{
+  "name": "measure-function-time",
+  "version": "1.0.0",
+  "description": "measure function time",
+  "main": "index.js",
+  "keywords": ["measure", "function", "time"],
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT"
+}
